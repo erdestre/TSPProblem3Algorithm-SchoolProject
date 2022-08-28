@@ -1,0 +1,6 @@
+﻿  TSP-CMP3006.cpp
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(17,9): warning C4101: 'distance': yerel değişken başvurusu kaldırıldı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(86,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(100,27): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(120,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  TSP-CMP3006.vcxproj -> C:\Users\Baykuş\source\repos\TSP-CMP3006\Debug\TSP-CMP3006.exe

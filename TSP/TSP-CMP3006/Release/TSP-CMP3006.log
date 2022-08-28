@@ -1,0 +1,37 @@
+﻿  TSP-CMP3006.cpp
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(52,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(66,27): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(80,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(123,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(136,27): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(159,27): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(179,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(191,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(197,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(216,18): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(218,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(230,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(245,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(253,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(290,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(356,87): warning C4244: '=': '_Rep' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(372,85): warning C4244: '=': '_Rep' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Baykuş\source\repos\TSP-CMP3006\TSP-CMP3006\header.h(387,78): warning C4244: '=': '_Rep' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Rep=__int64
+          ]
+  Kod üretiliyor
+  34 of 362 functions ( 9.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  TSP-CMP3006.vcxproj -> C:\Users\Baykuş\source\repos\TSP-CMP3006\Release\TSP-CMP3006.exe
